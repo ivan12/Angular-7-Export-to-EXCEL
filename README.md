@@ -1,2 +1,6 @@
-# Angular-7-Export-to-EXCEL
-Basic Example Export list to EXCEL
+## Angular 7 Export list to EXCEL
+
+Run `npm install` and after run `npm start`. 
+
+
+Navigate to `http://localhost:4200/`.
